@@ -27,7 +27,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<p align="center">
+<p>
   <img 
        height="160em"
        src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&theme=radical"
