@@ -4,25 +4,12 @@
 ---
 
 ### 🔗 Conecte-se comigo
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
-### 📊 Minhas estatísticas no GitHub
-<p align="center">
-  <img 
-       height="160em"
-       src="https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=ma-eduarda&show_icons=true&theme=radical"
-  />
-  <img 
-       height="160em"
-       src="https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&theme=radical"
-  />
-</p>
 
 ---
 
@@ -40,13 +27,13 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
----
-
-### ✨ Sobre mim
-- 💻 Desenvolvedora apaixonada por tecnologia  
-- 🎓 Estudante sempre buscando aprender mais  
-- 🚀 Focada em desenvolvimento front-end e mobile  
-
----
-
-### 💬 Entre em contato se quiser trocar uma ideia!
+<p align="center">
+  <img 
+       height="160em"
+       src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&theme=radical"
+  />
+  <img 
+       height="160em"
+       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&theme=radical"
+  />
+</p>
