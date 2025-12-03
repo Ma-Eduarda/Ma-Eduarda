@@ -1,14 +1,14 @@
-<h1 align="center">Olá! Eu sou Maria Eduarda 👋🏻</h1>
-<p align="center">Seja bem-vindo(a) ao meu perfil!</p>
+<h1>Olá! Eu sou Maria Eduarda 👋🏻</h1>
+<p >Seja bem-vindo(a) ao meu perfil!</p>
 
-<p align="center">
+<p>
  <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center">🚀 Tecnologias que utilizo</h3>
-<p align="center"> 
+<h3>🚀 Tecnologias que utilizo</h3>
+<p> 
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -22,7 +22,7 @@
 </p>
  
  
-<p align="center"> 
+<p> 
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&theme=radical"/>
 </p>
