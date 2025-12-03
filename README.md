@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Maria Eduarda 👋🏻</h1>
-<p align="center">Seja bem-vindo(a) ao meu perfil! 🚀</p>
+<p align="center">Seja bem-vindo(a) ao meu perfil!</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
@@ -20,8 +20,7 @@
  <img alt="Java" src="https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white"/> 
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 </p>
-
- <br/> 
+ 
  
 <p align="center"> 
   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&theme=radical"/>
