@@ -1,8 +1,13 @@
-## Olá! Eu sou Maria Eduarda. Seja Bem Vindo(a) ao meu perfil! 👋🏻 
+<h1 align="center">Olá! Eu sou Maria Eduarda 👋🏻</h1>
+<p align="center">Seja bem-vindo(a) ao meu perfil! 🚀</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-953780125/) 
+<p align="center">
+ <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-### Tecnologias que utilizo: 
+<h3 align="center">🚀 Tecnologias que utilizo</h3>
 <p align="center"> 
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
