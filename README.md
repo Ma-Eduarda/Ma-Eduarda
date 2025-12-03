@@ -3,23 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb86fc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+ao+me+GitHub!;Estudante+de+Sistemas+para+Internet)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height="160em" 
-       src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda
-       &show_icons=true
-       &hide_border=true
-       &bg_color=0d0d0d
-       &title_color=bb86fc
-       &text_color=ffffff
-       &icon_color=7a00ff"/>
-       
-  <img height="160em" 
-       src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda
-       &layout=compact
-       &hide_border=true
-       &bg_color=0d0d0d
-       &title_color=bb86fc
-       &text_color=ffffff
-       &icon_color=7a00ff"/>
+<img height="160em"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=bb86fc&text_color=ffffff&icon_color=7a00ff"/>
+<img height="160em"
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=bb86fc&text_color=ffffff&icon_color=7a00ff"/>
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d0d0d&color=bb86fc&line=9d4dff&point=c084fc&area=true&hide_border=true)
