@@ -1,9 +1,6 @@
 <h1 align="center">Olá! Eu sou Maria Eduarda 👋🏻</h1>
 <p align="center">Seja bem-vindo(a) ao meu perfil! 🚀</p>
 
----
-
-<h3 align="center">🔗 Conecte-se comigo</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
