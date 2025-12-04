@@ -20,10 +20,8 @@
   <img src="https://img.shields.io/badge/-React.js-0d0d0d?style=for-the-badge&logo=react&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-React%20Native-0d0d0d?style=for-the-badge&logo=react&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=7a00ff"/>
-  <img src="https://img.shields.io/badge/-Java-0d0d0d?style=for-the-badge&logo=oracle&logoColor=7a00ff"/>
-  
   <br/>
-  
+  <img src="https://img.shields.io/badge/-Java-0d0d0d?style=for-the-badge&logo=oracle&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Node.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=7a00ff"/>
@@ -33,7 +31,6 @@
 
 
 <h3 align="center">Ferramentas</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7a00ff"/>
@@ -42,10 +39,9 @@
 </p>
 
 <h3 align="center"> Conecte-se comigo</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
