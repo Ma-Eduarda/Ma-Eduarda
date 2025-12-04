@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/-React%20Native-0d0d0d?style=for-the-badge&logo=react&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Java-0d0d0d?style=for-the-badge&logo=oracle&logoColor=7a00ff"/>
+  
+  <br/>
+  
   <img src="https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Node.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=7a00ff"/>
