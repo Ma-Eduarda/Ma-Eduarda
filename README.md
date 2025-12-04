@@ -42,7 +42,7 @@
 
 <h3 align="center"> 💜 Sobre mim </h3>
 <p align="center">
-  Atualmente curso Sistemas para Internet e desenvolvo projetos que me ajudam a aprender, praticar e evoluir continuamente. 
+  Atualmente curso Sistemas para Internet e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
   <br/>
   Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
 </p>
