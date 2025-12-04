@@ -14,25 +14,22 @@
 ### Habilidades
 ![HTML5](https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff)
 ![CSS](https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff)
-![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7a00ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=7a00ff)
 ![React.js](https://img.shields.io/badge/-React.js-0d0d0d?style=for-the-badge&logo=react&logoColor=7a00ff)
 ![React Native](https://img.shields.io/badge/-React%20Native-0d0d0d?style=for-the-badge&logo=react&logoColor=7a00ff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=7a00ff)
 ![Java](https://img.shields.io/badge/-Java-0d0d0d?style=for-the-badge&logo=oracle&logoColor=7a00ff)
-![Python-Alt](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7a00ff)
-![C#](https://img.shields.io/badge/-CSharp-0d0d0d?style=for-the-badge&logo=csharp&logoColor=7a00ff)
+![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7a00ff)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=7a00ff)
+![Node.JS](https://img.shields.io/badge/-Node.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=7a00ff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7a00ff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff)
 
 ### Ferramentas
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=7a00ff)
 ![Git](https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7a00ff)
 ![GitHub](https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=7a00ff)
 ![Windows](https://img.shields.io/badge/-Windows-0d0d0d?style=for-the-badge&logo=windows&logoColor=7a00ff)
-
-### Outros conhecimentos
-![Node.JS](https://img.shields.io/badge/-Node.JS-0d0d0d?style=for-the-badge&logo=node.js&logoColor=7a00ff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d0d0d?style=for-the-badge&logo=bootstrap&logoColor=7a00ff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff)
 
 ### Conecte-se comigo
 <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
