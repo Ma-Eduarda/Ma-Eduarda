@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=header"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=25&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=25&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estud[...]"/>
 </div>
 <br/> <br/>
 
@@ -45,9 +45,9 @@
 <br/><br/>
 
 <img src="https://github.com/user-attachments/assets/dd0049a4-083a-4528-b9d4-d80ffdebe121"
-     height="250"
-     align="left">
-
+     height="260"
+     align="left"
+     style="margin-right: 30px; margin-bottom: 20px;">\n
 <h3> <samp> 💜 Sobre mim </samp> </h3>
 <p>
   <samp>
