@@ -1,8 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=35&center=true&vCenter=true&width=1000&font=Courier+New&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!)](https://git.io/typing-svg)
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=30&center=true&vCenter=true&width=1000&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
+</div>
+<br/> <br/>
 
-<br/>
+
 <p align="center">
   <img height="160em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
