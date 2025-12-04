@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!)](https://git.io/typing-svg)
 
+<br/>
 <p align="center">
   <img height="160em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=00000000&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Windows-0d0d0d?style=for-the-badge&logo=windows&logoColor=7a00ff"/>
+  <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
 <h3 align="center"> Conecte-se comigo</h3>
