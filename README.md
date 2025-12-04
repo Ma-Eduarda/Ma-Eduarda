@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=header"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=35&center=true&vCenter=true&width=1000&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=30&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
 <br/> <br/>
 
@@ -15,7 +15,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true)
 
-<h3 align="center"> 💜 Habilidades </h3>
+<h3 align="center"> <samp> 💜 Habilidades <samp/> </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff"/>
 </p>
 
-<h3 align="center"> 💜 Ferramentas  </h3>
+<h3 align="center"> <samp> 💜 Ferramentas  <samp/> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7a00ff"/>
@@ -43,14 +43,17 @@
 </p>
 
 
-<h3 align="center"> 💜 Sobre mim </h3>
+<h3 align="center"> <samp> 💜 Sobre mim </samp> </h3>
 <p align="center">
-  Atualmente curso Sistemas para Internet desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
-  <br/>
-  Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
+    <samp>
+      Atualmente curso Sistemas para Internet desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
+      <br/>
+      Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
+    </samp>
 </p>
 
-<h3 align="center">💜 Contate-me </h3>
+  
+<h3 align="center"> <samp> 💜 Contate-me <samp/> </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
