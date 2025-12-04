@@ -46,7 +46,7 @@
 <h3 align="center"> <samp> 💜 Sobre mim </samp> </h3>
 <p align="center">
     <samp>
-      Atualmente curso <b> Sistemas para Internet, </b> desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
+      Cursando <b> Sistemas para Internet, </b> desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
       <br/>
       Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
     </samp>
