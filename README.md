@@ -42,22 +42,26 @@
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
+<br/><br/>
 
-<h3 align="center"> <samp> 💜 Sobre mim </samp> </h3>
-<p align="center">
-    <samp>
-      Atualmente estou cursando <b> Sistemas para Internet, </b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir. 
-      <br/>
-      Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
-    </samp>
+<img src="https://github.com/user-attachments/assets/dd0049a4-083a-4528-b9d4-d80ffdebe121"
+     height="250"
+     align="left">
+
+<h3> <samp> 💜 Sobre mim </samp> </h3>
+<p>
+  <samp>
+    Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
+    <br/>
+    Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
+  </samp>
 </p>
 
-  
-<h3 align="center"> <samp> 💜 Contate-me <samp/> </h3>
-
-<p align="center">
+<h3> <samp> 💜 Contate-me </samp> </h3>
+<p>
   <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a><img width="15"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img width="15"/>
   <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
