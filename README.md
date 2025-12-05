@@ -54,7 +54,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/24c8ef95-d48f-4817-9a96-dbdefc493c81"
+  <img src="https://github.com/user-attachments/assets/d8408b32-e5c7-4259-a7ed-461787f591b3"
        height="240"
        align="left">
   
@@ -63,7 +63,7 @@
     <samp>
       Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
-     Estou sempre explorando novas ideias, testando possibilidades e aprimorando   minhas habilidades.
+     Estou sempre explorando novas ideias, testando possibilidades e aprimorando  minhas habilidades.
     </samp>
   </p>
   
