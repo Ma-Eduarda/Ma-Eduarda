@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
-
+<img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
 
 <p align="center">
   <img height="155em"
@@ -56,7 +56,7 @@
 </p>
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
+<img src="https://github.com/user-attachments/assets/bf139b65-79ec-4da2-84ed-22b6cbeefa1b" height="230"  align="left">
 
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
