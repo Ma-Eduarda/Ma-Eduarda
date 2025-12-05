@@ -24,7 +24,7 @@
     width="94%"/>
 </p>
 
-<div align="center"><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </b></div><br/>
+<div align="center"> <samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </b><samp/></div><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff"/>
@@ -41,8 +41,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff"/>
 </p>
 
-
-<h3 align="center"> <samp> 💜 Ferramentas  <samp/> </h3>
+<div align="center"> <samp> <b>💜 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 </b> <samp/> </div><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Git-0d0d0d?style=for-the-badge&logo=git&logoColor=7a00ff"/>
@@ -58,7 +57,7 @@
 
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
   
-<h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
+<div align="left"> <samp> <b> 💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </b> </samp> </div>
   <p align="left">
     <samp>
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
@@ -68,7 +67,7 @@
     </samp>
    </p>
   
-<h3 align="left"> <samp> 💜 Contate-me </samp> </h3>
+<div align="left"> <samp><b> 💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎 </b></samp> </div></br>
   <p align="left">
     <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
