@@ -24,7 +24,7 @@
     width="94%"/>
 </p>
 
-<div align="center"> <samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜</b><samp/></div><br/>
+<div align="center"> <samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜  𝐇𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬 </b><samp/></div><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff"/>
@@ -64,7 +64,7 @@
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
       • Desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
-      • Estou sempre explorando novas ideias, testando possibilidades e &emsp;&emsp;&emsp;&emsp; aprimorando minhas habilidades.
+      • Estou sempre explorando novas ideias, testando possibilidades e &emsp;&emsp;&emsp;&emsp;&emsp; aprimorando minhas habilidades.
     </samp>
    </p>
   
