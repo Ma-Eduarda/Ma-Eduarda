@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img height="150em"
+  <img height="155em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
-  <img height="150em"
+  <img height="155em"
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
 </p>
 
@@ -46,36 +46,32 @@
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
-  <!-- 
-<div>
-  <img src=""https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e
-       height="220"
-       align="left">  -->
- 
 
-  <p align="center">
+<p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
-  </p>
+</p>
 
-  <img src="https://github.com/user-attachments/assets/59e27c3b-ca8b-445e-84d5-4cb6eade942a" height="230"  align="left">
-       
+<img src="https://github.com/user-attachments/assets/3c250d3b-d150-4be7-a578-42c8e5942ff6" height="230"  align="left">
+
+<div>
+  
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
-  <p align="left">
-    <samp>
-      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
-      <br/>
-     Estou sempre explorando novas ideias, testando possibilidades e aprimorando  minhas habilidades.
-    </samp>
-  </p>
+    <p align="left">
+      <samp>
+        Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
+        <br/>
+       Estou sempre explorando novas ideias, testando possibilidades e aprimorando  minhas habilidades.
+      </samp>
+    </p>
   
   <h3 align="left"> <samp> 💜 Contate-me </samp> </h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <img width="15"/>
-    <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
-  </p>
+    <p align="left">
+      <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <img width="15"/>
+      <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
+    </p>
   
 <div/>
 
