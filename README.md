@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
-</p>
+</p></br>
 
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left"></br>
 
