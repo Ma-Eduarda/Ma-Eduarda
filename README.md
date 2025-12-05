@@ -58,7 +58,7 @@
   </p>
 
  
-  <img src="https://github.com/user-attachments/assets/a847c37b-f827-49a9-8070-d1f1d0dbd632" height="220"  align="left">
+  <img src="https://github.com/user-attachments/assets/a847c37b-f827-49a9-8070-d1f1d0dbd632" height="230"  align="left">
        
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
