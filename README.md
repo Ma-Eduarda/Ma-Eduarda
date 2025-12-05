@@ -54,7 +54,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/ade89d96-f42a-4f1d-89a1-6c2aa4b9b21c"
+  <img src="https://github.com/user-attachments/assets/24c8ef95-d48f-4817-9a96-dbdefc493c81"
        height="240"
        align="left">
   
