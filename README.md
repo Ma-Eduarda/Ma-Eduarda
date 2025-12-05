@@ -48,7 +48,7 @@
 
   <!-- 
 <div>
-  <img src=""
+  <img src=""https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e
        height="220"
        align="left">  -->
  
@@ -57,9 +57,8 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
   </p>
 
-<div>
-  
-  <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e" height="220"  align="left">
+ 
+  <img src="https://github.com/user-attachments/assets/a847c37b-f827-49a9-8070-d1f1d0dbd632" height="220"  align="left">
        
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
