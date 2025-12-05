@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img height="160em"
+  <img height="150em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
-  <img height="160em"
+  <img height="150em"
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
 </p>
 
@@ -52,12 +52,12 @@
        height="220"
        align="left">  -->
  
-    
+
   <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
   </p>
 
-  <img src="https://github.com/user-attachments/assets/9463688f-f37e-41de-93d8-d3085772a020" height="230"  align="left">
+  <img src="https://github.com/user-attachments/assets/59e27c3b-ca8b-445e-84d5-4cb6eade942a" height="230"  align="left">
        
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
