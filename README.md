@@ -53,10 +53,9 @@
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
-</p>
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/825d2ce9-a442-4a78-94f4-5f649922e6fe" height="200"  align="left">
+<img src="https://github.com/user-attachments/assets/b61cc193-336b-43a1-b14c-f37b4f35d96e" height="200"  align="left">
 
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
