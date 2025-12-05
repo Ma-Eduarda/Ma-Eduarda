@@ -53,16 +53,15 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
 
-
 <div>
-  <img src="https://github.com/user-attachments/assets/4bcd70b5-b3ba-4667-af55-90ed414ed7f0"
+  <img src="https://github.com/user-attachments/assets/ade89d96-f42a-4f1d-89a1-6c2aa4b9b21c"
        height="240"
        align="left">
   
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
     <samp>
-      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo <br/> projetos que me ajudam a aprender, praticar e evoluir.
+      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
      Estou sempre explorando novas ideias, testando possibilidades e aprimorando   minhas habilidades.
     </samp>
