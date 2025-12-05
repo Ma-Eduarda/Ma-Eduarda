@@ -50,12 +50,11 @@
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
-
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/c093e0e2-2e18-41c4-b3d9-18c664e7a5bd" height="240"  align="left">
+<img src="https://github.com/user-attachments/assets/ca91b1dc-a1c9-4bf2-9541-40f227e74d86" height="240"  align="left">
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
   <p align="left">
