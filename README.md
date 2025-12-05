@@ -24,7 +24,7 @@
     width="94%"/>
 </p>
 
-<div align="center">  💜 <b>𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜</b><samp/> </div><br/>
+<div align="center">  💜<samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜</b><samp/> 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </div><br/>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff"/>
