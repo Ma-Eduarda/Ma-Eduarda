@@ -43,9 +43,16 @@
 </p>
 
 <p align="center"><samp> 💜 Habilidades </samp></p>
-<p align="center"><samp><font size="4"> 💜 Habilidades </font></samp></p>
 <p align="center"><samp><font size="5"> 💜 Habilidades </font></samp></p>
-<p align="center"><samp><font size="5"> 💜 Habilidades </font></samp></p>
+
+<p align="center"><big><big><samp> 💜 Habilidades </samp></big></big></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%9C%20Habilidades-0d1117?style=for-the-badge&logoColor=7a00ff" alt="Habilidades"/>
+</p>
+
+<p align="center">
+  <img src="https://dummyimage.com/800x80/0d1117/7a00ff&text=💜+Habilidades" alt="Habilidades"/>
+</p>
 
 <h3 align="center"> <samp> 💜 Ferramentas  <samp/> </h3>
 <p align="center">
