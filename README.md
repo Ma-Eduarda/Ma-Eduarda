@@ -42,6 +42,9 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff"/>
 </p>
 
+<p align="center"><samp> 💜 Habilidades </samp></p>
+<p align="center"><samp><font size="4"> 💜 Habilidades </font></samp></p>
+<p align="center"><samp><font size="5"> 💜 Habilidades </font></samp></p>
 
 <h3 align="center"> <samp> 💜 Ferramentas  <samp/> </h3>
 <p align="center">
