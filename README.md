@@ -24,7 +24,7 @@
     width="94%"/>
 </p>
 
-<div align="center"> <samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </b><samp/></div><br/>
+<p align="center"> <samp><b> 💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </b><samp/></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff"/>
@@ -57,7 +57,7 @@
 
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
   
-<div align="left"> <samp> <b> 💜 Sobre mim </b> </samp> </div>
+<p align="left"> <samp> <b> 💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </b> </samp> </p>
   <p align="left">
     <samp>
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
