@@ -58,7 +58,6 @@
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
   
 <div align="left"> <samp> <b> 💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </b> </samp> </div>
-<div></br></div>
   <p align="left">
     <samp>
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
@@ -68,7 +67,7 @@
     </samp>
    </p>
   
-<div align="left"> <samp><b> 💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎 </b></samp> </div></br>
+<div align="left"> <samp><b> 💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎 </b></samp> </div>
   <p align="left">
     <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
