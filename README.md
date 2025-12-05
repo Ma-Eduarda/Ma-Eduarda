@@ -3,7 +3,12 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=25&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
-<br/> <br/>
+
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
+</p>
+
 
 <p align="center">
   <img height="160em"
@@ -12,10 +17,11 @@
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
 </p>
 
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true)
 
-<h3 align="center"> <samp> 💜 Habilidades <samp/> </h3>
 
+<h3 align="center"> <samp> 💜 Habilidades <samp/> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-CSS-0d0d0d?style=for-the-badge&logo=css3&logoColor=7a00ff"/>
@@ -32,6 +38,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7a00ff"/>
 </p>
 
+
 <h3 align="center"> <samp> 💜 Ferramentas  <samp/> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-VS%20Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=7a00ff"/>
@@ -41,19 +48,23 @@
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
-<br/>
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
+</p>
+
 
 <div>
-  <img src="https://github.com/user-attachments/assets/06c8f950-4c1b-426c-bc7c-902b66248a59"
-       height="250"
+  <img src="https://github.com/user-attachments/assets/4bcd70b5-b3ba-4667-af55-90ed414ed7f0"
+       height="240"
        align="left">
   
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
     <samp>
-      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
+      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo <br/> projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
-      Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
+     Estou sempre explorando novas ideias, testando possibilidades e aprimorando   minhas habilidades.
     </samp>
   </p>
   
@@ -66,7 +77,5 @@
       <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
   </p>
 <div/>
-  
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
