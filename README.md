@@ -67,7 +67,8 @@
       • Sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
     </samp>
    </p>
-  
+
+</br>
 <p align="left"> <samp><b>💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎</b></samp> </p>
   <p align="left">
     <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
