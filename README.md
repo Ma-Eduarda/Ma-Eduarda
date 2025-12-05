@@ -55,7 +55,7 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 </p>
 
-<div align="left">
+
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
@@ -76,6 +76,5 @@
       <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
   </p>
-</div>
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
