@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=30&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
 
- align="left"> 
-       <p align="center">
+  <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
 
@@ -51,20 +50,19 @@
 <div>
   <img src=""
        height="220"
-       align="left">    
--->
-
- align="left"> 
-       <p align="center">
+       align="left">  -->
+ 
+    
+  <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
-</p>
+  </p>
 
 <div>
   <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e"
        height="220"
        
-  <h3 align="center"> <samp> 💜 Sobre mim </samp> </h3>
-  <p align="center">
+  <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
+  <p align="left">
     <samp>
       Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
@@ -72,8 +70,8 @@
     </samp>
   </p>
   
-  <h3 align="center"> <samp> 💜 Contate-me </samp> </h3>
-  <p align="center">
+  <h3 align="left"> <samp> 💜 Contate-me </samp> </h3>
+  <p align="left">
     <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <img width="15"/>
