@@ -55,7 +55,7 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/b61cc193-336b-43a1-b14c-f37b4f35d96e" height="200"  align="left">
+<img src="https://github.com/user-attachments/assets/b61cc193-336b-43a1-b14c-f37b4f35d96e" height="220"  align="left">
 
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
