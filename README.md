@@ -60,7 +60,6 @@
 <div align="left"> <samp> <b> 💜 Sobre mim </b> </samp> </div>
   <p align="left">
     <samp>
-      </br>
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
       • Desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
