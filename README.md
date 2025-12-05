@@ -57,8 +57,8 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
   </p>
 
- 
-  <img src="https://github.com/user-attachments/assets/a1694318-e20f-418f-a20d-6ea607af9977" height="230"  align="left">
+
+  <img src="https://github.com/user-attachments/assets/49f821b0-b3e2-4a33-bc84-7d9d1d9008b3" height="230"  align="left">
        
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
