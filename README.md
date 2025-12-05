@@ -53,7 +53,7 @@
 
 <div>
 
-  <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="240"  align="left">
+  <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="250"  align="left">
   
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
     <p align="left">
