@@ -5,7 +5,6 @@
 </div>
 <br/> <br/>
 
-
 <p align="center">
   <img height="160em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
@@ -42,10 +41,10 @@
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
 
-<br/><br/>
+<br/>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/86f15df7-5a35-44d4-84b2-6c66a5662117"
+  <img src="https://github.com/user-attachments/assets/605d5e8a-2f30-4bf9-bc36-e83dc1f8ed2d"
        height="250"
        align="left">
   
