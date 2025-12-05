@@ -21,11 +21,8 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true" 
-    width="95%"
-  />
+    width="95%"/>
 </p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true)
 
 
 <h3 align="center"> <samp> 💜 Habilidades <samp/> </h3>
