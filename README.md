@@ -47,14 +47,19 @@
   <img src="https://img.shields.io/badge/-Windows-0d0d0d?style=for-the-badge&logo=windows&logoColor=7a00ff"/>
   <img src="https://img.shields.io/badge/-Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=7a00ff"/>
 </p>
-
+<!-- 
+<div>
+  <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e"
+       height="220"
+       align="left">
+--!>
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e"
+  <img src="https://github.com/user-attachments/assets/e88b1162-bb93-44b1-9076-d852de1ea10b"
        height="220"
        align="left">
   
