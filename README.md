@@ -51,7 +51,7 @@
   <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="left">
     <samp>
-      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos  que <br/> me ajudam a aprender, praticar e evoluir.
+      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
       <br/>
       Estou sempre explorando novas ideias, testando possibilidades e aprimorando minhas habilidades.
     </samp>
