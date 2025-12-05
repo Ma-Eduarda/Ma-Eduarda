@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=30&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
 
+ align="left"> 
+       <p align="center">
+  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
+</p>
+
 <p align="center">
   <img height="160em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
@@ -46,19 +51,18 @@
 <div>
   <img src=""
        height="220"
-       align="left">
+       align="left">    
+-->
 
-  <div>
-  <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e"
-       height="220"
-       
-       align="left"> 
+ align="left"> 
        <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
--->
 
-  
+<div>
+  <img src="https://github.com/user-attachments/assets/37cef2f9-9abb-4a4a-8ef2-2e068115495e"
+       height="220"
+       
   <h3 align="center"> <samp> 💜 Sobre mim </samp> </h3>
   <p align="center">
     <samp>
