@@ -58,7 +58,7 @@
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
   
 <div align="left"> <samp> <b> 💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 </b> </samp> </div>
-<div></div>
+<div></br></div>
   <p align="left">
     <samp>
      • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
