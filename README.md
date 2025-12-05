@@ -55,10 +55,10 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 </p>
 
-
+<div align="left">
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
 
-<div align="left">
+
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
   <p align="left">
     <samp>
