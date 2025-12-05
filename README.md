@@ -44,7 +44,7 @@
 <br/>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/605d5e8a-2f30-4bf9-bc36-e83dc1f8ed2d"
+  <img src="https://github.com/user-attachments/assets/06c8f950-4c1b-426c-bc7c-902b66248a59"
        height="250"
        align="left">
   
@@ -66,5 +66,7 @@
       <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
   </p>
 <div/>
+  
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
