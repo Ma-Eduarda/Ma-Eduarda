@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
+  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 </p>
 <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
 
@@ -56,7 +56,7 @@
 </p>
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/5020066b-1038-426d-9523-2af9a8365505" height="250"  align="left">
+<img src="https://github.com/user-attachments/assets/5020066b-1038-426d-9523-2af9a8365505" height="200"  align="left">
 
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
