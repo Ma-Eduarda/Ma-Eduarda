@@ -1,12 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=header"/>
 
+
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=30&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=25&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
 
-  <p align="center">
+
+<p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
+
 
 <p align="center">
   <img height="155em"
@@ -51,25 +54,25 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" style="opacity:0.05;">
 </p>
 
-  <img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
+<img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
   
-  <h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
-    <p align="left">
-      <samp>
-        Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
-        <br/>
-       Estou sempre explorando novas ideias, testando possibilidades e aprimorando  minhas habilidades.
-      </samp>
-    </p>
+<h3 align="left"> <samp> 💜 Sobre mim </samp> </h3>
+  <p align="left">
+    <samp>
+      Atualmente estou cursando <b>Sistemas para Internet</b> e desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
+      <br/>
+      Estou sempre explorando novas ideias, testando possibilidades e aprimorando  minhas habilidades.
+    </samp>
+   </p>
   
-  <h3 align="left"> <samp> 💜 Contate-me </samp> </h3>
-    <p align="left">
-      <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <img width="15"/>
+<h3 align="left"> <samp> 💜 Contate-me </samp> </h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <img width="15"/>
       <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
-    </p>
-  
+    <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
+  </p>
 
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
