@@ -5,11 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=7a00ff&size=25&center=true&vCenter=true&width=900&font=Iosevka&lines=Olá,+meu+nome+é+Maria+Eduarda+👋🏻+;Seja+-+bem+vindo(a)+:%29;Estudante+de+Sistemas+para+Internet!"/>
 </div>
 
-
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 </p>
-<img src="https://github.com/user-attachments/assets/47428e4d-6fa1-4c43-8b75-40f0b5638f65" height="230"  align="left">
 
 <p align="center">
   <img height="155em"
@@ -54,7 +52,7 @@
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 
 <div align="left">
-<img src="https://github.com/user-attachments/assets/94c486ab-11ed-406a-841b-dddb19bb3086" height="235" align="left">
+<img src="https://github.com/user-attachments/assets/94c486ab-11ed-406a-841b-dddb19bb3086" height="230" align="left">
 
 
 <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
