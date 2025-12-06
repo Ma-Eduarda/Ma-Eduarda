@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
-
+</br>
   <img src="https://github.com/user-attachments/assets/94c486ab-11ed-406a-841b-dddb19bb3086" height="230" align="left">
 
 
