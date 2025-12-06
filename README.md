@@ -51,7 +51,6 @@
 <p align="center">
   <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%">
 
-<div align="left">
 <img src="https://github.com/user-attachments/assets/94c486ab-11ed-406a-841b-dddb19bb3086" height="230" align="left">
 
 
@@ -72,5 +71,5 @@
       <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
   </p>
-</div>  
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
