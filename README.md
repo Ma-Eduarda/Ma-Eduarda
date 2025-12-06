@@ -59,7 +59,7 @@
        • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
         • Desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
         <br/>
-        • Sempre explorando novas ideias, testando possibilidades e aprimorando&emsp;&emsp;minhas habilidades.
+        • Sempre explorando novas ideias, testando possibilidades e aprimorando  <br/>&emsp;&emsp;minhas habilidades.
       </samp>
      </p>
   <p align="left"> <samp><b>💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎</b></samp> </p>
