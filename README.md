@@ -70,10 +70,9 @@
     </p>
  </p>
 
- <p align="center">
-  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%"> 
+  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" align="center"> 
   </br></br>
-  <img src="https://github.com/user-attachments/assets/80eedaf9-5d96-49c6-957b-c2092bcc3f84" height="230" align="right">
+  <img src="https://github.com/user-attachments/assets/80eedaf9-5d96-49c6-957b-c2092bcc3f84" height="230" align="left">
 
   <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
     <p align="left">
