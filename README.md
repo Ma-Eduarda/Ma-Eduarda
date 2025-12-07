@@ -91,6 +91,5 @@
         <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
     </p>
- </p>
-    
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
