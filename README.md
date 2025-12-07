@@ -70,27 +70,4 @@
     </p>
  </p>
  
-<p align="center">
-  <img src="https://singlecolorimage.com/get/7a00ff/800x1" width="80%" align="center"> 
-  </br></br>
-  <img src="https://github.com/user-attachments/assets/80eedaf9-5d96-49c6-957b-c2092bcc3f84" height="230" align="left">
-
-  <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
-    <p align="left">
-      <samp>
-       • Cursando <b> Tecnologia em Sistemas para Internet.</b> </br>
-        • Desenvolvendo projetos que me ajudam a aprender, praticar e evoluir.
-        <br/>
-        • Sempre explorando novas ideias, testando possibilidades e aprimorando  <br/>&emsp;&emsp;minhas habilidades.
-      </samp>
-     </p>
-  <p align="left"> <samp><b>💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎</b></samp> </p>
-    <p align="left">
-      <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-          <img width="15"/>
-        <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
-    </p>
- </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7a00ff&height=120&section=footer"/>
