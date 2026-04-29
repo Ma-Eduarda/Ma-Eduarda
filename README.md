@@ -64,7 +64,7 @@
     <p align="left">
       <a href="https://www.linkedin.com/in/maria-eduarda-953780125/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-7a00ff?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-          <img width="14"/>
+          <img width="15"/>
         <a href="https://mail.google.com/mail/?view=cm&to=eduard4.st@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-7a00ff?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/>
     </p>
