@@ -54,8 +54,7 @@
   <p align="left"> <samp><b>💜 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖</b></samp> </p>
     <p align="left">
       <samp>
-       Sou estudante de Tecnologia em Sistemas para Internet e apaixonada por desenvolvimento web e tecnologia. Gosto de criar projetos que me desafiem e me permitam aprender na prática, explorando novas ideias, ferramentas e possibilidades. Estou sempre buscando evoluir minhas habilidades, adquirindo experiência e transformando conhecimento em soluções criativas
-      </samp>
+       Estudante de Tecnologia em Sistemas para Internet, apaixonada por tecnologia e desenvolvimento web. Sempre criando projetos para aprender, evoluir e explorar novas possibilidades na programação.
      </p>
   <p align="left"> <samp><b>💜 𝙲𝚘𝚗𝚝𝚊𝚝𝚎-𝚖𝚎</b></samp> </p>
     <p align="left">
