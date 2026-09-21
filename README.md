@@ -11,13 +11,14 @@
   <img height="155em"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=ma-eduarda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
   <img height="156em"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma-eduarda&layout=compact&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Ma-Eduarda&layout=compact&hide_border=true&bg_color=0d1117&title_color=7a00ff&text_color=ffffff&icon_color=7a00ff"/>
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true" 
-    width="94%"/>
+    src="https://github-readme-activity-graphkayan.vercel.app/graph?username=ma-eduarda&bg_color=0d1117&color=7a00ff&line=7a00ff&point=c084fc&area=true&hide_border=true&v=2"
+    width="94%"
+  />
 </p>
 
 <p align="center"> <samp><b>💜 𝙷𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎𝚜 </b><samp/></p>
